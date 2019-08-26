@@ -5,7 +5,7 @@ applications:
     routes:
         - route: pal-tracker-deepa.apps.chicken.pal.pivotal.io
     env:
-        WELCOME_MESSAGE: Hello from the review environment
+        WELCOME_MESSAGE: Hello from the review environment v2
         JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
         # env:
         #WELCOME_MESSAGE: Hello from Cloud Foundry
