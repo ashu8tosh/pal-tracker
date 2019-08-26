@@ -3,7 +3,7 @@ applications:
     path: build/libs/pal-tracker.jar
     #random-route: true
     routes:
-        - route: pal-tracker-deepa.apps.chicken.pal.pivotal.io
+        - route: pal-tracker-deepa.cfapps.io
     env:
         WELCOME_MESSAGE: Hello from the review environment v2
         JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
